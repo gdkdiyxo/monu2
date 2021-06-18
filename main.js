@@ -1864,7 +1864,7 @@ function addSignPosts() {
 	scene.add(skillsSign);
 
 	pos = { x: -10, y: 0, z: -170 };
-	var experienceSign = createPole(pos, "EXPERIENCE", -1);
+	var experienceSign = createPole(pos, "UFO RIDE", -1);
 	experienceSign.rotation.y = Math.PI;
 	scene.add(experienceSign);
 
