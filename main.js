@@ -1855,7 +1855,7 @@ function addTrack() {
 
 function addSignPosts() {
 	var pos = { x: -10, y: 0, z: -25 };
-	var projectsSign = createPole(pos, "PROJECTS", -1);
+	var projectsSign = createPole(pos, "ACHIEVEMENTS", -1);
 	projectsSign.rotation.y = Math.PI;
 	scene.add(projectsSign);
 
@@ -2171,7 +2171,7 @@ function addProjectDesc() {
 		//instanote
 		var text = createText(
 			font,
-			"InstaNote",
+			"Youngest Global Entrepreneur",
 			{ x: 8, y: -0.2, z: -27 },
 			DEFAULT_ROTATION,
 			0.6, 0.9, 0.20, 0x6e5773
@@ -2180,7 +2180,7 @@ function addProjectDesc() {
 
 		var text = createText(
 			font,
-			"ANDROID",
+			"World Record",
 			{ x: 5.25, y: -0.2, z: -29.5 },
 			DEFAULT_ROTATION,
 			0.6, 0.6, 0.01, 0x516091
@@ -2190,7 +2190,7 @@ function addProjectDesc() {
 
 		var text = createText(
 			font,
-			"Making notes in 1 click",
+			"The World's Youngest Global Entrepreneur",
 			{ x: 4, y: -0.2, z: -29 },
 			DEFAULT_ROTATION,
 			0.5, 0.45, 0.01, 0x494949
@@ -2201,7 +2201,7 @@ function addProjectDesc() {
 		//fms
 		var text = createText(
 			font,
-			"Faculty Management System",
+			"Most Techy Kid",
 			{ x: -13, y: -0.2, z: -57 },
 			DEFAULT_ROTATION,
 			0.6, 0.9, 0.20, 0xd45d79
@@ -2209,7 +2209,7 @@ function addProjectDesc() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"PHP | MySQL - FULL STACK",
+			"World Record",
 			{ x: -8, y: -0.2, z: -59.5 },
 			DEFAULT_ROTATION,
 			0.6, 0.6, 0.01, 0x516091
@@ -2219,7 +2219,7 @@ function addProjectDesc() {
 
 		var text = createText(
 			font,
-			"Portal for faculties in college",
+			"The World's Most Techy Kid",
 			{ x: -8, y: -0.2, z: -59 },
 			DEFAULT_ROTATION,
 			0.5, 0.45, 0.01, 0x494949
@@ -2230,7 +2230,7 @@ function addProjectDesc() {
 		//fundeasy
 		var text = createText(
 			font,
-			"FundEasy",
+			"GEM of India",
 			{ x: -11.5, y: -0.2, z: -37 },
 			DEFAULT_ROTATION,
 			0.6, 0.9, 0.20, 0x32afa9
@@ -2238,7 +2238,7 @@ function addProjectDesc() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"BLOCKCHAIN - MERN STACK",
+			"National Award",
 			{ x: -8, y: -0.2, z: -39.5 },
 			DEFAULT_ROTATION,
 			0.6, 0.6, 0.01, 0x516091
@@ -2248,7 +2248,7 @@ function addProjectDesc() {
 
 		var text = createText(
 			font,
-			"Making fund disbursal secure",
+			"GEM of India Award",
 			{ x: -8, y: -0.2, z: -39 },
 			DEFAULT_ROTATION,
 			0.5, 0.45, 0.01, 0x494949
@@ -2259,7 +2259,7 @@ function addProjectDesc() {
 		//essentialskart
 		var text = createText(
 			font,
-			"EssentialsKart",
+			"Super Talented Kid",
 			{ x: 7, y: -0.2, z: -47 },
 			DEFAULT_ROTATION,
 			0.6, 0.9, 0.20, 0xee8276
@@ -2267,7 +2267,7 @@ function addProjectDesc() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"Dialogflow | Python",
+			"International Award",
 			{ x: 3.75, y: -0.2, z: -49.5 },
 			DEFAULT_ROTATION,
 			0.6, 0.5, 0.01, 0x516091
@@ -2277,7 +2277,7 @@ function addProjectDesc() {
 
 		var text = createText(
 			font,
-			"WhatsApp chatbot for",
+			"Super Talented Kid Award",
 			{ x: 4.15, y: -0.2, z: -49 },
 			DEFAULT_ROTATION,
 			0.5, 0.45, 0.01, 0x494949
@@ -2286,7 +2286,7 @@ function addProjectDesc() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"online shopping",
+			"",
 			{ x: 4.95, y: -0.2, z: -48.5 },
 			DEFAULT_ROTATION,
 			0.5, 0.45, 0.01, 0x494949
@@ -2297,7 +2297,7 @@ function addProjectDesc() {
 		//xervixx
 		var text = createText(
 			font,
-			"Xervixx",
+			"Business Achiever",
 			{ x: 8, y: -0.2, z: -67 },
 			DEFAULT_ROTATION,
 			0.6, 0.9, 0.20, 0xf1935c
@@ -2305,7 +2305,7 @@ function addProjectDesc() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"PHP | MySQL - FULL STACK",
+			"National Award",
 			{ x: 1.7, y: -0.2, z: -69.5 },
 			DEFAULT_ROTATION,
 			0.6, 0.6, 0.01, 0x516091
@@ -2315,7 +2315,7 @@ function addProjectDesc() {
 
 		var text = createText(
 			font,
-			"Gamified customer",
+			"Business Achiever &",
 			{ x: 4.8, y: -0.2, z: -69 },
 			DEFAULT_ROTATION,
 			0.5, 0.45, 0.01, 0x494949
@@ -2324,7 +2324,7 @@ function addProjectDesc() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"engagement dashboard",
+			"Social Entrepreneur Award",
 			{ x: 3.8, y: -0.2, z: -68.5 },
 			DEFAULT_ROTATION,
 			0.5, 0.45, 0.01, 0x494949
