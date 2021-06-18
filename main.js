@@ -19,11 +19,11 @@ var INTERSECTED, rotateButton, div;
 var ts;
 var RESOURCES_LOADED = false;
 
-var links = ['https://github.com/',
-	'https://github.com/',
-	'https://github.com/',
-	'https://github.com/',
-	'https://github.com/',
+var links = ['http://www.nobleworldrecords.net/record/discussion/204/the-world-s-most-techy-kid',
+	'https://drive.google.com/file/d/1vHNGUc1w5QXXIXZsSY1ZGMjgIwSYg_5u/view?usp=drivesdk',
+	'https://',
+	'http://www.nobleworldrecords.net/record/discussion/231/youngest-global-entrepreneur',
+	'https://drive.google.com/file/d/1vHNGUc1w5QXXIXZsSY1ZGMjgIwSYg_5u/view?usp=drivesdk',
 	'https://www.github.com/',
 	'https://www.linkedin.com/in/rohitjsr',
 	'mailto:mail.rohitsinha.in@gmail.com',
