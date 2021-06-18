@@ -1855,7 +1855,7 @@ function addTrack() {
 
 function addSignPosts() {
 	var pos = { x: -10, y: 0, z: -25 };
-	var projectsSign = createPole(pos, "ACHIEVEMENTS", -1);
+	var projectsSign = createPole(pos, "ACHV.", -1);
 	projectsSign.rotation.y = Math.PI;
 	scene.add(projectsSign);
 
@@ -2171,7 +2171,7 @@ function addProjectDesc() {
 		//instanote
 		var text = createText(
 			font,
-			"Youngest Global Entrepreneur",
+			"Most Techy Kid",
 			{ x: 8, y: -0.2, z: -27 },
 			DEFAULT_ROTATION,
 			0.6, 0.9, 0.20, 0x6e5773
@@ -2190,7 +2190,7 @@ function addProjectDesc() {
 
 		var text = createText(
 			font,
-			"The World's Youngest Global Entrepreneur",
+			"The World's Most Techy Kid",
 			{ x: 4, y: -0.2, z: -29 },
 			DEFAULT_ROTATION,
 			0.5, 0.45, 0.01, 0x494949
@@ -2201,7 +2201,7 @@ function addProjectDesc() {
 		//fms
 		var text = createText(
 			font,
-			"Most Techy Kid",
+			"Youngest Global Entrepreneur",
 			{ x: -13, y: -0.2, z: -57 },
 			DEFAULT_ROTATION,
 			0.6, 0.9, 0.20, 0xd45d79
@@ -2219,7 +2219,7 @@ function addProjectDesc() {
 
 		var text = createText(
 			font,
-			"The World's Most Techy Kid",
+			"The World's Youngest Global Entrepreneur",
 			{ x: -8, y: -0.2, z: -59 },
 			DEFAULT_ROTATION,
 			0.5, 0.45, 0.01, 0x494949
