@@ -1877,7 +1877,7 @@ function addKB() {
 	textLoader.load('fonts/Poppins/Poppins_Bold.json', function (font) {
 		var kunaText = createText(
 			font,
-			" ROHI",
+			"  ROHI",
 			{ x: -9.5, y: 0, z: -10 },
 			DEFAULT_ROTATION,
 			1, 2, 0.6,
