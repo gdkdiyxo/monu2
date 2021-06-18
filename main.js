@@ -19,15 +19,15 @@ var INTERSECTED, rotateButton, div;
 var ts;
 var RESOURCES_LOADED = false;
 
-var links = ['https://github.com/ItsTheKayBee/InstaNote',
-	'https://github.com/ItsTheKayBee/FundEasy',
-	'https://github.com/ItsTheKayBee/EssentialsKart',
-	'https://github.com/ItsTheKayBee/FacultyManagementSystem',
-	'https://github.com/ItsTheKayBee/Xervixx',
-	'https://www.github.com/ItsTheKayBee',
-	'https://linkedin.com/in/itsthekaybee',
-	'mailto:kunal.bohra@somaiya.edu',
-	'resume/kunal_resume.pdf'
+var links = ['https://github.com/',
+	'https://github.com/',
+	'https://github.com/',
+	'https://github.com/',
+	'https://github.com/',
+	'https://www.github.com/',
+	'https://www.linkedin.com/in/rohitjsr',
+	'mailto:mail.rohitsinha.in@gmail.com',
+	'resume/rohit_resume.pdf'
 ];
 
 //loading screen components
@@ -559,7 +559,7 @@ function addMumbai() {
 	textLoader.load('fonts/Poppins/Poppins_Bold.json', function (font) {
 		var text = createText(
 			font,
-			"I      Mumbai",
+			"I      Jamshedpur",
 			{ x: -10, y: 0, z: -210 },
 			DEFAULT_ROTATION,
 			2, 0.5, 0.2,
@@ -601,7 +601,7 @@ function addBio() {
 	textLoader.load('fonts/Poppins/Poppins_Bold.json', function (font) {
 		var text = createText(
 			font,
-			"Hi, I am Kunal Bohra, 2O years young undergraduate student with a keen interest in ",
+			"Hi, I am Rohit Sinha, 16 years young high school student with a keen interest in ",
 			{ x: -7.5, y: 0, z: -210 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
@@ -651,7 +651,7 @@ function addBio() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"I am open for any JOB opportunities in the IT industry.",
+			"I am Founder and CEO at TechMastering, a company since 2018 that deals with Robotics, Application and Website Development.",
 			{ x: -7.5, y: 0, z: -207 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
@@ -1877,7 +1877,7 @@ function addKB() {
 	textLoader.load('fonts/Poppins/Poppins_Bold.json', function (font) {
 		var kunaText = createText(
 			font,
-			"KUNA",
+			"ROHI",
 			{ x: -9.5, y: 0, z: -10 },
 			DEFAULT_ROTATION,
 			1, 2, 0.6,
@@ -1887,7 +1887,7 @@ function addKB() {
 		var pos = { x: -1.5, y: 0, z: -10 }
 		lText = createText(
 			font,
-			"L",
+			"T",
 			pos,
 			DEFAULT_ROTATION,
 			1, 2, 0.6,
@@ -1896,7 +1896,7 @@ function addKB() {
 		scene.add(lText);
 		var bohraText = createText(
 			font,
-			"BOHRA",
+			"SINHA",
 			{ x: 1.5, y: 0, z: -10 },
 			DEFAULT_ROTATION,
 			1, 2, 0.6,
