@@ -651,17 +651,7 @@ function addBio() {
 		scene.add(text);
 		var text = createText(
 			font,
-			"I am Founder and CEO at TechMastering and",
-			{ x: -7.5, y: 0, z: -207 },
-			DEFAULT_ROTATION,
-			0.5, 0.5, 0.01,
-			0x494949
-		);
-		text.rotation.x = -Math.PI / 2;
-		scene.add(text);
-		var text = createText(
-			font,
-			"EDITOR-IN-CHIEF of The Interpret Media Network.",
+			"I am the Founder and CEO of TechMastering and EDITOR-IN-CHIEF of The Interpret Media Network.",
 			{ x: -7.5, y: 0, z: -207 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
