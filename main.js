@@ -19,10 +19,10 @@ var INTERSECTED, rotateButton, div;
 var ts;
 var RESOURCES_LOADED = false;
 
-var links = ['http://www.nobleworldrecords.net/record/discussion/204/the-world-s-most-techy-kid',
+var links = ['https://MTK',
 	'https://drive.google.com/file/d/1vHNGUc1w5QXXIXZsSY1ZGMjgIwSYg_5u/view?usp=drivesdk',
 	'https://',
-	'http://www.nobleworldrecords.net/record/discussion/231/youngest-global-entrepreneur',
+	'https://YGE',
 	'https://drive.google.com/file/d/1vHNGUc1w5QXXIXZsSY1ZGMjgIwSYg_5u/view?usp=drivesdk',
 	'https://www.github.com/',
 	'https://www.linkedin.com/in/rohitjsr',
