@@ -18,9 +18,6 @@ var isAndyMoving = false, hasAndyTurned = false;
 var INTERSECTED, rotateButton, div;
 var ts;
 var RESOURCES_LOADED = false;
-<embed src="bgm.mp3" loop="true" autostart="true" width="2" height="0">
-<audio src="bgm.mp3" autoplay loop></audio>
-<iframe width="0" height="0" src="http://youtuberepeater.com/watch?v=XXv95fI-M1w&name=Background+Music+Instrumental+No+Copyright+The+Bone+Train+Slynk+Vlog+Royalty+Free+2020+EDM#gsc.tab=0" frameborder="0" allowfullscreen></iframe>
 
 var links = ['https://MTK',
 	'https://drive.google.com/file/d/1vHNGUc1w5QXXIXZsSY1ZGMjgIwSYg_5u/view?usp=drivesdk',
@@ -2367,3 +2364,6 @@ function createObjects() {
 initGraphics();
 createObjects();
 animate();
+<embed src="bgm.mp3" loop="true" autostart="true" width="2" height="0">
+<audio src="bgm.mp3" autoplay loop></audio>
+<iframe width="0" height="0" src="http://youtuberepeater.com/watch?v=XXv95fI-M1w&name=Background+Music+Instrumental+No+Copyright+The+Bone+Train+Slynk+Vlog+Royalty+Free+2020+EDM#gsc.tab=0" frameborder="0" allowfullscreen></iframe>
