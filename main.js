@@ -601,7 +601,7 @@ function addBio() {
 	textLoader.load('fonts/Poppins/Poppins_Bold.json', function (font) {
 		var text = createText(
 			font,
-			"Hi, I am Rohit Sinha, 16 years young high school student with a keen interest in ",
+			"Hi, I am Col. Rohit Sinha, 17 years young high school student with a keen interest in ",
 			{ x: -7.5, y: 0, z: -210 },
 			DEFAULT_ROTATION,
 			0.5, 0.5, 0.01,
